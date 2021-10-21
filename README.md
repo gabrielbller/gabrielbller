@@ -1,4 +1,4 @@
-### Hi there, I'm Gabriel - aka [gabrielbller] 👋
+### Hi there, I'm Gabriel Bodenmüller. 👋
 
 ## I'm a Young Developer trying to learn a lot!!
 
