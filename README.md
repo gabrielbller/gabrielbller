@@ -3,9 +3,9 @@
 ## I'm a Young Developer trying to learn a lot!!
 
 - 👀 I’m interested in become a great developer
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Learn Front-end and Back-end
+- 🤓 I’m currently learning everything 🤣
+- 🫡 I’m looking to collaborate with other content creators
+- 🥅 2023 Goals: Learn Front-end and Back-end
 - ⚡ Fun fact: I love to workout! 
 
 ### Languages and Tools:
