@@ -18,10 +18,13 @@
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gabriel-Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="Gabriel-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img src="https://skillicons.dev/icons?i=git,docker, angular, arduino, cs, c, cpp, css, discord, dotnet, figma, github, git, gitlab, html, js, ts, vscode, py, " />
-
 </div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker, angular, arduino, cs, c, cpp, css, discord, dotnet, figma, github, git, gitlab, html, js, ts, vscode, py" />
+  </a>
+</p>
 
 ---
 
