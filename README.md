@@ -10,7 +10,7 @@
 
 ### Languages and Tools:
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,angular,arduino,cs,c,cpp,css,discord,dotnet,figma,github,git,gitlab,html,js,ts,vscode,py"/>
   </a>
