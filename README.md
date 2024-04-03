@@ -1,11 +1,11 @@
 ### Hi there, I'm Gabriel Bodenmüller. 👋
 
-## I'm a Developer trying to learn a lot!!
+## I'm a Software Developer trying to learn a lot!!
 
 - 👀 I’m interested in become a great developer
-- 🤓 I’m currently learning everything 🤣
+- 🤓 I’m currently learning FullStack
 - 🫡 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Learn Front-end and Back-end
+- 🥅 2024 Goals: Learn VueJS and React
 - ⚡ Fun fact: I love to workout! 
 
 ### Languages and Tools:
