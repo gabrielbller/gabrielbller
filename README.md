@@ -6,7 +6,14 @@
 - 🤓 I’m currently learning FullStack
 - 🫡 I’m looking to collaborate with other content creators
 - 🥅 2024 Goals: Learn VueJS and React
-- ⚡ Fun fact: I love to workout! 
+- ⚡ Fun fact: I love to workout!
+
+
+
+<div style="display: flex; align-items: center; gap: 0; width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=gabrielbller&show_icons=true&theme=ocean_dark&line_height=49&cache_seconds=60" alt="J.Bandeo GitHub stats" style="border: none;height: auto; width: 57%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbller&show_icons=true&theme=ocean_dark&card_width=100&cache_seconds=60" alt="Top Langs" style="border: none; height: auto; width: 41%;">
+</div>
 
 ### Languages and Tools:
 
