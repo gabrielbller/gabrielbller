@@ -1,6 +1,6 @@
 ### Hi there, I'm Gabriel Bodenmüller. 👋
 
-## I'm a Software Developer trying to learn a lot!!
+## I'm a Computer Engineer trying to learn a lot!!
 
 - 🤔 I’m passionate about becoming an outstanding developer, always striving for excellence.
 - 💼 Currently, I'm working at <a href="http://drive.app.br/"> DRIVE TECH LAB </a> as a Full-Stack Developer, building innovative and robust software solutions.
