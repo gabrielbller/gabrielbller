@@ -2,11 +2,10 @@
 
 ## I'm a Software Developer trying to learn a lot!!
 
-- 👀 I’m interested in become a great developer
-- 🤓 I’m currently learning FullStack
-- 🫡 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Learn VueJS and React
-- ⚡ Fun fact: I love to workout!
+- 🤔 I’m passionate about becoming an outstanding developer, always striving for excellence.
+- 💼 Currently, I'm working at <a href="http://drive.app.br/"> DRIVE TECH LAB </a> as a Full-Stack Developer, building innovative and robust software solutions.
+- 🥅 Goals for 2024: Master VueJS and React to expand my front-end skills.
+- ⚡ I love working out! It's my go-to activity for recharging and staying focused.
 
 
 ### Languages and Tools:
