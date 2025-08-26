@@ -3,7 +3,7 @@
 ## I'm a Computer Engineer trying to learn a lot!!
 
 - 🤔 I’m passionate about becoming an outstanding developer, always striving for excellence.
-- 💼 Currently, I'm working at <a href="http://https://www.royalcargo.com.br//"> Royal Cargo do Brasil </a> as a Full-Stack Developer, building innovative and robust software solutions.
+- 💼 Currently, I'm working at <a href="http://www.royalcargo.com.br/"> Royal Cargo do Brasil </a> as a Full-Stack Developer, building innovative and robust software solutions.
 - 🥅 Goals for 2024: Master VueJS and React to expand my front-end skills.
 - ⚡ I love working out! It's my go-to activity for recharging and staying focused.
 
